@@ -25,7 +25,7 @@ I'm a Computer Science Engineer with a strong passion for technology and a solid
 ### 🌐 Contact & Links
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henry96guaman@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henryguamanf96/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://tu-portfolio.com)
 
 ---
